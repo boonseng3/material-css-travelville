@@ -15,3 +15,5 @@ The page consist of the following components:
 8.  Gallery (materialbox, responsive image)
 9.  Contact (card panel, input field)
 10. Footer (footer)
+
+> **Note:** Images taken from [PEXELS](https://www.pexels.com/)
